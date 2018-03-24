@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 5371d98e88ff56f4080acdddba68b2c3
+timeCreated: 1514633928
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: instance_0
+    100004: instance_1
+    100006: instance_10
+    100008: instance_11
+    100010: instance_12
+    100012: instance_13
+    100014: instance_14
+    100016: instance_15
+    100018: instance_16
+    100020: instance_17
+    100022: instance_18
+    100024: instance_19
+    100026: instance_2
+    100028: instance_20
+    100030: instance_21
+    100032: instance_22
+    100034: instance_23
+    100036: instance_24
+    100038: instance_3
+    100040: instance_35
+    100042: instance_36
+    100044: instance_37
+    100046: instance_4
+    100048: instance_5
+    100050: instance_6
+    100052: instance_7
+    100054: instance_8
+    100056: instance_9
+    100058: Lamp
+    100060: //RootNode
+    100062: SketchUp
+    100064: skp_camera_Last_Saved_SketchUp_View
+    100066: Camera_001
+    100068: Lamp_001
+    100070: Sun
+    100072: staticmesh
+    100074: staticmesh_001
+    400000: Camera
+    400002: instance_0
+    400004: instance_1
+    400006: instance_10
+    400008: instance_11
+    400010: instance_12
+    400012: instance_13
+    400014: instance_14
+    400016: instance_15
+    400018: instance_16
+    400020: instance_17
+    400022: instance_18
+    400024: instance_19
+    400026: instance_2
+    400028: instance_20
+    400030: instance_21
+    400032: instance_22
+    400034: instance_23
+    400036: instance_24
+    400038: instance_3
+    400040: instance_35
+    400042: instance_36
+    400044: instance_37
+    400046: instance_4
+    400048: instance_5
+    400050: instance_6
+    400052: instance_7
+    400054: instance_8
+    400056: instance_9
+    400058: Lamp
+    400060: //RootNode
+    400062: SketchUp
+    400064: skp_camera_Last_Saved_SketchUp_View
+    400066: Camera_001
+    400068: Lamp_001
+    400070: Sun
+    400072: staticmesh
+    400074: staticmesh_001
+    2000000: Camera
+    2000002: skp_camera_Last_Saved_SketchUp_View
+    2000004: Camera_001
+    2100000: Wood_Bamboo_Medium
+    2100002: Color_F01
+    2100004: Color_I01
+    2100006: Material_005
+    2100008: BlueB
+    2100010: RedA2
+    2100012: Color_F01_001
+    2100014: Color_I01_001
+    2100016: _0135_DarkGray
+    2300000: instance_0
+    2300002: instance_1
+    2300004: instance_10
+    2300006: instance_11
+    2300008: instance_12
+    2300010: instance_13
+    2300012: instance_14
+    2300014: instance_15
+    2300016: instance_16
+    2300018: instance_17
+    2300020: instance_18
+    2300022: instance_19
+    2300024: instance_2
+    2300026: instance_20
+    2300028: instance_21
+    2300030: instance_22
+    2300032: instance_23
+    2300034: instance_24
+    2300036: instance_3
+    2300038: instance_35
+    2300040: instance_36
+    2300042: instance_37
+    2300044: instance_4
+    2300046: instance_5
+    2300048: instance_6
+    2300050: instance_7
+    2300052: instance_8
+    2300054: instance_9
+    2300056: staticmesh
+    2300058: staticmesh_001
+    3300000: instance_0
+    3300002: instance_1
+    3300004: instance_10
+    3300006: instance_11
+    3300008: instance_12
+    3300010: instance_13
+    3300012: instance_14
+    3300014: instance_15
+    3300016: instance_16
+    3300018: instance_17
+    3300020: instance_18
+    3300022: instance_19
+    3300024: instance_2
+    3300026: instance_20
+    3300028: instance_21
+    3300030: instance_22
+    3300032: instance_23
+    3300034: instance_24
+    3300036: instance_3
+    3300038: instance_35
+    3300040: instance_36
+    3300042: instance_37
+    3300044: instance_4
+    3300046: instance_5
+    3300048: instance_6
+    3300050: instance_7
+    3300052: instance_8
+    3300054: instance_9
+    3300056: staticmesh
+    3300058: staticmesh_001
+    4300000: instance_0
+    4300002: instance_1
+    4300004: instance_2
+    4300006: instance_3
+    4300008: instance_4
+    4300010: instance_5
+    4300012: instance_6
+    4300014: instance_7
+    4300016: instance_8
+    4300018: instance_9
+    4300020: instance_10
+    4300022: instance_11
+    4300024: instance_12
+    4300026: instance_13
+    4300028: instance_14
+    4300030: instance_15
+    4300032: instance_16
+    4300034: instance_17
+    4300036: instance_18
+    4300038: instance_19
+    4300040: instance_20
+    4300042: instance_21
+    4300044: instance_22
+    4300046: instance_23
+    4300048: instance_35
+    4300050: staticmesh
+    4300052: staticmesh_001
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp_001
+    10800004: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlueB
+    second: {fileID: 2100000, guid: 27e3dc396d91d85418e21f112ac6de9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_F01
+    second: {fileID: 2100000, guid: 19f757410e6ec8747a921873161cfb89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_I01
+    second: {fileID: 2100000, guid: 27e3dc396d91d85418e21f112ac6de9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Bamboo_Medium
+    second: {fileID: 2100002, guid: a0a3d3c49e1f2404b8dd4f5d316708b8, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0135_DarkGray
+    second: {fileID: 2100000, guid: ed251eab2daef9c48a28bb71fadad156, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
